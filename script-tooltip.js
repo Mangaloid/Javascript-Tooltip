@@ -1,4 +1,3 @@
-<script type="text/javascript">
 $(document).ready(function()
 {
   $('.tooltip-pos').each(function(){
@@ -28,4 +27,3 @@ $(document).ready(function()
     });
   });
 });
-</script>
